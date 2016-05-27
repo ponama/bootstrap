@@ -1,0 +1,93 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.violet, 
+.bridge, 
+.girl{
+	padding-left: 0;
+	padding-right: 0;
+}
+.navbar-toggle{
+    border: none;
+    background-color: #202529;
+    border-radius: 0;
+    padding: 18px 14px;
+    margin: 0;
+}
+.navbar-inverse .navbar-brand{
+	color: #ffffff;
+}
+.container-fluid>.navbar-header{
+	background-color: #373c3f;
+}
+.navbar-inverse {
+    border: none;
+}
+.navbar {
+    border-radius: 0px;
+    border: none;
+    margin-bottom: 0;
+}
+.blue h2{
+	color: #ffffff;
+	font-size: 6vw;
+}
+.blue{
+	background-color: #0a99b0;
+	padding: 15vw 0 12vw 10vw;
+}
+.blue h3{
+	color: #a5d1db;
+	font-size: 4vw;
+	margin: 2px 0 0;
+}
+.blue .separate{
+	margin-top: 10px;
+}
+.blue > .row{
+	margin: 0;
+}
+.web{
+	padding: 0;
+}
+.blue i{
+	font-size: 4vw;
+	color: #ffffff;
+}
+.pink{
+	background-color: #bc3183;
+	color: #ffffff;
+	height: 18vw;
+	line-height: 18vw;
+	font-size: 5vw;
+}
+.robin{
+	background-color: #27212c;
+	color: #9282a0;
+	height: 18vw;
+	line-height: 18vw;
+}
+.robin h4{
+	font-size: 3vw;
+	display: inline-block;
+	padding-left: 10vw;
+}
+.text{
+	background-color: #ebebeb;
+	padding: 5vw 6vw 6vw 6vw;
+}
+.text h1{
+	font-size: 4vw;
+	color: #088ca5;
+	height: 3vw;
+}
+.text p{
+	font-size: 3vw;
+	color: #515151;
+}
+
